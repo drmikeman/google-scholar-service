@@ -63,7 +63,7 @@ class Papers
 end
 
 class Points
-  POINTS = { 2018 => { 'JSS' => 35, 'IST' => 35 } }.freeze
+  POINTS = { 2018 => { 'JSS' => 35, 'IST' => 30 } }.freeze
 
   def search(journal, year)
     POINTS.dig(year, journal) || -1
@@ -90,7 +90,7 @@ class API < Grape::API
     requires :year, type: Integer
   end
   get :points do
-    Points.new.search(params[:journal], params[:year])
+    { points: Points.new.search(params[:journal], params[:year]) }
   end
 end
 
