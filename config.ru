@@ -1,9 +1,4 @@
-require 'bundler/inline'
-
-gemfile true do
-  source 'https://rubygems.org'
-  gem 'grape'
-end
+require 'grape'
 
 class Papers
   PAPERS = [
