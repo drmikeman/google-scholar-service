@@ -41,18 +41,21 @@ class Papers
       profile: 'sylwia',
       title: 'An Empirical Study on Catalog of Non-functional Requirement Templates: Usefulness and Maintenance Issues',
       authors: 'Kopczynska, Nawrocki, Ochodek',
+      journal: 'IST',
       year: 2018
     },
     {
       profile: 'jurek',
       title: 'An Empirical Study on Catalog of Non-functional Requirement Templates: Usefulness and Maintenance Issues',
       authors: 'Kopczynska, Nawrocki, Ochodek',
+      journal: 'IST',
       year: 2018
     },
     {
       profile: 'mirek',
       title: 'An Empirical Study on Catalog of Non-functional Requirement Templates: Usefulness and Maintenance Issues',
       authors: 'Kopczynska, Nawrocki, Ochodek',
+      journal: 'IST',
       year: 2018
     }
   ].freeze
