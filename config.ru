@@ -4,6 +4,7 @@ class Papers
   PAPERS = [
     {
       profile: 'michal',
+      person: 'M. Mackowiak',
       title: 'On some end-user programming constructs and their understandability',
       authors: 'Mackowiak, Nawrocki, Ochodek',
       journal: 'JSS',
@@ -11,6 +12,7 @@ class Papers
     },
     {
       profile: 'jurek',
+      person: 'J.R. Nawrocki',
       title: 'On some end-user programming constructs and their understandability',
       authors: 'Mackowiak, Nawrocki, Ochodek',
       journal: 'JSS',
@@ -18,6 +20,7 @@ class Papers
     },
     {
       profile: 'mirek',
+      person: 'M. Ochodek',
       title: 'On some end-user programming constructs and their understandability',
       authors: 'Mackowiak, Nawrocki, Ochodek',
       journal: 'JSS',
@@ -25,6 +28,7 @@ class Papers
     },
     {
       profile: 'sylwia',
+      person: 'S. Kopczynska',
       title: 'Perceived Importance of Agile Requirements Engineering Practices',
       authors: 'Kopczynska, Ochodek',
       journal: 'JSS',
@@ -32,6 +36,7 @@ class Papers
     },
     {
       profile: 'mirek',
+      person: 'M. Ochodek',
       title: 'Perceived Importance of Agile Requirements Engineering Practices',
       authors: 'Kopczynska, Ochodek',
       journal: 'JSS',
@@ -39,6 +44,7 @@ class Papers
     },
     {
       profile: 'sylwia',
+      person: 'S. Kopczynska',
       title: 'An Empirical Study on Catalog of Non-functional Requirement Templates: Usefulness and Maintenance Issues',
       authors: 'Kopczynska, Nawrocki, Ochodek',
       journal: 'IST',
@@ -46,6 +52,7 @@ class Papers
     },
     {
       profile: 'jurek',
+      person: 'J.R. Nawrocki',
       title: 'An Empirical Study on Catalog of Non-functional Requirement Templates: Usefulness and Maintenance Issues',
       authors: 'Kopczynska, Nawrocki, Ochodek',
       journal: 'IST',
@@ -53,6 +60,7 @@ class Papers
     },
     {
       profile: 'mirek',
+      person: 'M. Ochodek',
       title: 'An Empirical Study on Catalog of Non-functional Requirement Templates: Usefulness and Maintenance Issues',
       authors: 'Kopczynska, Nawrocki, Ochodek',
       journal: 'IST',
